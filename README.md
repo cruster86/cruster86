@@ -1,15 +1,13 @@
-# https://gitlab.rebrainme.com/devops_users_repos/1453/rebrain-devops-task1
+# $$REPO
 
-> Generates a readme for your node modules.
+> $$1LINER
 
 background details relevant to understanding what this module does
 
 ## Usage
 
 ```js
-var https://gitlabRebrainmeCom/devopsUsersRepos/1453/rebrainDevopsTask1 = require('https://gitlab.rebrainme.com/devops_users_repos/1453/rebrain-devops-task1')
-
-console.log('hello warld')
+$$EXAMPLE
 ```
 
 outputs
@@ -21,7 +19,7 @@ hello warld
 ## API
 
 ```js
-var https://gitlabRebrainmeCom/devopsUsersRepos/1453/rebrainDevopsTask1 = require('https://gitlab.rebrainme.com/devops_users_repos/1453/rebrain-devops-task1')
+var $$rePo = require('$$REPO')
 ```
 
 See [api_formatting.md](api_formatting.md) for tips.
@@ -31,12 +29,12 @@ See [api_formatting.md](api_formatting.md) for tips.
 With [npm](https://npmjs.org/) installed, run
 
 ```
-$ npm install https://gitlab.rebrainme.com/devops_users_repos/1453/rebrain-devops-task1
+$ npm install $$REPO
 ```
 
 ## Acknowledgments
 
-https://gitlab.rebrainme.com/devops_users_repos/1453/rebrain-devops-task1 was inspired by..
+$$REPO was inspired by..
 
 ## See Also
 
@@ -45,4 +43,4 @@ https://gitlab.rebrainme.com/devops_users_repos/1453/rebrain-devops-task1 was in
 
 ## License
 
-ISC
+$$ZEE_LICENSE
