@@ -16,7 +16,7 @@ Show what the library does as concisely as possible, developers should be able t
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+:rocket:
 
 ## Requirements
 
