@@ -15,7 +15,7 @@
 Here will be some information about project.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhabr.com%2Fru%2Fcompany%2Ffuncorp%2Fblog%2F486136%2F&psig=AOvVaw27QVzbnO3re3fkuDjQHGov&ust=1602099945702000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjVh8TdoOwCFQAAAAAdAAAAABAD)
 
 ## Technologies
 * Tech 1 - version 1.0
