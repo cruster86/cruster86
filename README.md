@@ -1,48 +1,54 @@
-# https://gitlab.rebrainme.com/devops_users_repos/1453/rebrain-devops-task1
+# Project Name
 
-> Generates a readme for your node modules.
+Short introduction or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
-background details relevant to understanding what this module does
+You can also add some badges/states next to Project Name, e.g,
++ [Travis CI](https://travis-ci.org/)
++ [AppVeyor](http://www.appveyor.com/)
++ [Coveralls](https://coveralls.io/)
++ [Gitter](https://gitter.im/)
++ [Shields.io](http://shields.io/)
++ Others
+
+## Features or Example
+
+Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+
+## Motivation
+
+A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+
+## Requirements
+
+This section is optional if there isn't any special dependencies. Else a bulletlist will suffice, e.g.,
++ [Node.js](https://nodejs.org/)
++ [React](https://facebook.github.io/react/)
++ Others
+
+## Installation or Getting Started
+
+Provide code examples and explanations of how to get the project, e.g.,
+
+	git clone https://github.com/Jasonnor/README.md.git
+    cd README.md
+    npm install README.md
+    npm start
 
 ## Usage
 
-```js
-var https://gitlabRebrainmeCom/devopsUsersRepos/1453/rebrainDevopsTask1 = require('https://gitlab.rebrainme.com/devops_users_repos/1453/rebrain-devops-task1')
+Show how to use the project or library.
+    
+## Reference
 
-console.log('hello warld')
-```
++ [jxson](https://gist.github.com/jxson) - [README.md](https://gist.github.com/jxson/1784669)
++ [gistfrojd](https://gist.github.com/gistfrojd) - [README.md](https://gist.github.com/gistfrojd/5fcd3b70949ac6376f66)
 
-outputs
+Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
 
-```
-hello warld
-```
+## Contributors
 
-## API
-
-```js
-var https://gitlabRebrainmeCom/devopsUsersRepos/1453/rebrainDevopsTask1 = require('https://gitlab.rebrainme.com/devops_users_repos/1453/rebrain-devops-task1')
-```
-
-See [api_formatting.md](api_formatting.md) for tips.
-
-## Install
-
-With [npm](https://npmjs.org/) installed, run
-
-```
-$ npm install https://gitlab.rebrainme.com/devops_users_repos/1453/rebrain-devops-task1
-```
-
-## Acknowledgments
-
-https://gitlab.rebrainme.com/devops_users_repos/1453/rebrain-devops-task1 was inspired by..
-
-## See Also
-
-- [`noffle/common-readme`](https://github.com/noffle/common-readme)
-- ...
+Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
 
 ## License
 
-ISC
+A short snippet describing the license ([MIT](http://opensource.org/licenses/mit-license.php), [Apache](http://opensource.org/licenses/Apache-2.0), etc.)
