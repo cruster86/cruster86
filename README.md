@@ -1,4 +1,4 @@
-# Project Name
+# Cruster web-server 
 
 Short introduction or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
@@ -10,7 +10,7 @@ You can also add some badges/states next to Project Name, e.g,
 + [Shields.io](http://shields.io/)
 + Others
 
-## Features or Example
+## Features
 
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
@@ -25,7 +25,7 @@ This section is optional if there isn't any special dependencies. Else a bulletl
 + [React](https://facebook.github.io/react/)
 + Others
 
-## Installation or Getting Started
+## Installation 
 
 Provide code examples and explanations of how to get the project, e.g.,
 
@@ -36,14 +36,7 @@ Provide code examples and explanations of how to get the project, e.g.,
 
 ## Usage
 
-Show how to use the project or library.
-    
-## Reference
-
-+ [jxson](https://gist.github.com/jxson) - [README.md](https://gist.github.com/jxson/1784669)
-+ [gistfrojd](https://gist.github.com/gistfrojd) - [README.md](https://gist.github.com/gistfrojd/5fcd3b70949ac6376f66)
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+Show how to use the project.
 
 ## Contributors
 
