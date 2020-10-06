@@ -1,39 +1,49 @@
-# Cruster web-server 
+# Cruster web-server
+> Simple & fast web-server
 
-Simple and fast web-server.
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
+
+## General info
+Here will be some information about project.
+
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+
+## Technologies
+* Tech 1 - version 1.0
+* Tech 2 - version 2.0
+* Tech 3 - version 3.0
+
+## Setup
+Installation description.
+
+## Code Examples
+
+`some-code-here`
 
 ## Features
+List of features ready and TODOs for future development
+* Awesome feature 1
+* Awesome feature 2
+* Awesome feature 3
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+To-do list:
+* Wow improvement to be done 1
+* Wow improvement to be done 2
 
-## Motivation
+## Status
+Project is: _in progress_
 
-:rocket:
+## Inspiration
+Project inspired by..., based on...
 
-## Requirements
-
-This section is optional if there isn't any special dependencies. Else a bulletlist will suffice, e.g.,
-+ [Node.js](https://nodejs.org/)
-+ [React](https://facebook.github.io/react/)
-+ Others
-
-## Installation 
-
-Provide code examples and explanations of how to get the project, e.g.,
-
-	git clone https://github.com/Jasonnor/README.md.git
-    cd README.md
-    npm install README.md
-    npm start
-
-## Usage
-
-Show how to use the project.
-
-## Contributors
-
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
-
-## License
-
-A short snippet describing the license ([MIT](http://opensource.org/licenses/mit-license.php), [Apache](http://opensource.org/licenses/Apache-2.0), etc.)
+## Contact
+Created by ..... - feel free to contact me!
